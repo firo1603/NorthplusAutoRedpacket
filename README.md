@@ -1,5 +1,5 @@
-# North-AutoRedpacket
-- Auto Redpacket for North+
+# NorthplusAutoRedpacket
+- Auto Redpacket for Northplus
 
 ## 使用方法
 
