@@ -1,5 +1,10 @@
 # North-AutoRedpacket
-Auto Redpacket for North+
+- Auto Redpacket for North+
+
+## 使用方法
+
+- 下载解压后chrome→更多工具→拓展程序→加载已解压的拓展程序
+- 下载解压后chrome→更多工具→拓展程序→打包拓展程序→将生成的.crx文件拖入拓展程序页面（推荐）
 
 ## ver0.1.0
 
